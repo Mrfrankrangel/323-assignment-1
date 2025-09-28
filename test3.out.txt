@@ -1,0 +1,22 @@
+token           lexeme
+----------------------------------------
+keyword         read
+identifier      y
+separator       ;
+identifier      y
+operator        =
+real            3.14e-2
+operator        +
+integer         5
+separator       ;
+keyword         function
+identifier      f
+separator       (
+separator       )
+separator       {
+keyword         return
+identifier      y
+operator        !=
+integer         0
+separator       ;
+separator       }
