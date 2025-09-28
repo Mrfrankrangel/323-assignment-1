@@ -1,0 +1,4 @@
+/* start */
+read y;
+y = 3.14e-2 + 5; // end of line
+function f() { return y != 0; }
